@@ -1,0 +1,11 @@
+#过滤自动生成的目录及文件
+.DS_Store
+app/build/
+build/
+local.properties
+.idea/
+.gradle/
+*.iml
+
+# 排除上面多过滤的文件
+!HuoBan2.iml
